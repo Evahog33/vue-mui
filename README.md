@@ -1,6 +1,6 @@
 # vue-mui
 
-> A Vue.js project
+> A Vue + Mui  project
 
 ## Build Setup
 
@@ -26,5 +26,7 @@ npm run e2e
 # run all tests
 npm test
 ```
+## 说明
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> 一个 vue + mui 的项目雏形，适用于在vue项目中调用一些原生的api，如相机，定位等功能。
+> [博客](https://juejin.im/post/5b3ece56e51d45198d4aed9d)
